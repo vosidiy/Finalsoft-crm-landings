@@ -1,0 +1,19 @@
+
+
+/* ================== header main ==================  */
+.nav-header{
+	border-radius: 50px;
+}
+@media (max-width: 780px) {
+	
+	.nav-header{
+		border-radius: 0px;
+	}
+
+}
+
+.brand-wrap{ 
+    .logo{ margin-right:7px; max-height:42px; display:inline-block;}
+    &:hover{  opacity:0.75;  }
+}
+
